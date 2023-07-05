@@ -1,0 +1,19 @@
+{
+    "client": {
+        "token": "MTA0NzU5ODMwMTczNTgxMzE0MQ.G24B4p.tXD1CDL3YEQmN-ohoVV1cVV3RlCTvvd5hRbWt8",
+        "id": "1047598301735813141"
+    },
+    "handler": {
+        "prefix": "?",
+        "deploy": true,
+        "commands": {
+            "prefix": true,
+            "slash": true,
+            "user": true,
+            "message": true
+        },
+        "mongodb": {
+            "uri": ""
+        }
+    }
+}
