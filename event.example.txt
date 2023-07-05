@@ -1,7 +1,0 @@
-module.exports = {
-    event: '',
-    once: false,
-    run: (client, ...) => {
-        
-    }
-};
